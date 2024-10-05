@@ -85,17 +85,5 @@ footer {
 }
 
 /* 自訂內容框架樣式 */
-.content-frame p {
-    font-size: 1.1em;
-    color: #003366; /* 深藍色文字 */
-}
-
-/* 響應式調整 */
-@media (max-width: 768px) {
-    .content-frame {
-        max-width: calc(100% - 20px); /* 在小螢幕上縮窄20px */
-    }
-    .navbar-nav .nav-link {
-        margin-left: 10px; /* 減少間距 */
-    }
-}
+.content-frame p {font-size: 1.1em;
+    color: #003366; /* 深*/}
